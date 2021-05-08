@@ -16,4 +16,7 @@ HƯỚNG DẪN CHƠI:
 - Nếu dao không găm vào Block thì Gameover
 - Tốc độ di chuyển của dao sẽ tăng dần theo thời gian
 
+Ý TƯỞNG:
 
+-Ý tưởng từ
+https://www.youtube.com/watch?v=JnF91uaG81k&t=369s

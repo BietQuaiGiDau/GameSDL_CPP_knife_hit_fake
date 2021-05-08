@@ -11,10 +11,10 @@ CÁC ĐỐI TƯỢNG TRONG GAME:
 HƯỚNG DẪN CHƠI:
 
 - Đối tượng dao di chuyển qua lại theo trục X
-- Click chuột phải để phi dao
+- Click chuột trái để phi dao
 - Mỗi lần dao găm vào Block được tính là 100 điểm
-- Nếu dao không găm vào Block thì Gameover
-- Tốc độ di chuyển của dao sẽ tăng dần theo thời gian
+- Nếu dao được phi mà không găm vào Block thì Gameover
+- Tốc độ di chuyển qua lại của dao sẽ tăng dần theo thời gian
 
 Ý TƯỞNG:
 

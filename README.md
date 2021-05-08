@@ -1,4 +1,4 @@
-# GameSDL_CPP_knife_hit
+# GameSDL_CPP_knife_hit_fake
 
 - Game một phần dựa trên trò chơi Knife Hit gốc
 - Mã nguồn được viết bằng ngôn ngữ C++ đồ hoạ SDL 2.0.14

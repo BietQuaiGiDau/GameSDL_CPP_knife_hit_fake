@@ -20,3 +20,8 @@ HƯỚNG DẪN CHƠI:
 
 -Ý tưởng từ
 https://www.youtube.com/watch?v=JnF91uaG81k&t=369s
+
+THƯ VIỆN:
+
+- SDL_image
+- SDL_tff
